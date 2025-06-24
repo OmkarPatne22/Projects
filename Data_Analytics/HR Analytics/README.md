@@ -56,7 +56,7 @@ The dashboard also includes a **Dark Mode & Light Mode toggle** for improved vis
 
 Feel free to reach out for feedback, suggestions, or collaboration opportunities!
 
-- 📧 Email: yourname@example.com  
+- 📧 Email: omkar2252001@gmail.com 
 - 💼 [LinkedIn](https://linkedin.com/in/omkar-patne-504b97252)  
 - 🐙 [GitHub](https://github.com/OmkarPatne22)
 
