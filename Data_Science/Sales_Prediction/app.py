@@ -1,13 +1,8 @@
 import streamlit as st
 import pickle
 import numpy as np
-import os
 
-# Get the current directory of this script
-current_dir = os.path.dirname(os.path.abspath(__file__))
-model_path = os.path.join(current_dir, "model.pkl")
-
-with open("model.pkl","rb") as p:
+with open("Data_Science/Sales_Prediction/model.pkl","rb") as p:
     model = pickle.load(p)
 
 st.title("Sales Prediction Application")
