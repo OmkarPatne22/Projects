@@ -88,6 +88,12 @@ pip install -r requirements.txt
 
 ---
 
+## 🔗 Live Demo 
+
+👉 [**Click here to try the app**](https://salesprice-prediction.streamlit.app/)  
+
+---
+
 ## 🎯 Use Cases
 - **Marketing Agencies:** Quickly estimate sales impact of ad campaigns.  
 - **Business Analysts:** Analyze advertising budgets and optimize spending.  

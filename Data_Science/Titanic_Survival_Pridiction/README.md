@@ -36,6 +36,7 @@ It is built using **Streamlit** for a smooth and interactive experience, making 
 ---
 
 ## 📂 Project Structure
+
 titanic-survival-predictor/
 │
 ├── app.py                  # Streamlit application
@@ -62,6 +63,7 @@ This project uses **Logistic Regression**, a popular algorithm for binary classi
 ---
 
 ## 🔧 Installation & Setup
+
 1. **Clone the repository:**
    
    git clone https://github.com/OmkarPatne22/Projects/blob/main/Data_Science/Titanic%20Survival%20Pridiction/app.py
@@ -94,9 +96,7 @@ This project uses **Logistic Regression**, a popular algorithm for binary classi
 - NumPy
 - Pickle
 
-Install all dependencies with:
-bash
-pip install -r requirements.txt
+Install all dependencies with: pip install -r requirements.txt
 
 ---
 
@@ -104,6 +104,12 @@ pip install -r requirements.txt
 - **Students & Learners:** Understand logistic regression and binary classification in action.
 - **Data Science Enthusiasts:** Experiment with Titanic dataset features.
 - **Portfolio Project:** Great addition for showcasing skills in Python, Streamlit, and ML.
+
+---
+
+## 🔗 Live Demo 
+
+👉 [**Click here to try the app**](https://titanic-survival--prediction.streamlit.app/)
 
 ---
 
