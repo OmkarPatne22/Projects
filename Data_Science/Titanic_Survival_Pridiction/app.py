@@ -4,7 +4,7 @@ import numpy as np
 import pickle
 
 # Load the trained model
-model = pickle.load(open('logistic_model.pkl', 'rb'))
+model = pickle.load(open('Data_Science/Titanic_Survival_Pridiction/logistic_model.pkl', 'rb'))
 
 # Streamlit UI
 st.set_page_config(page_title="Titanic Survival Predictor", layout="centered")
