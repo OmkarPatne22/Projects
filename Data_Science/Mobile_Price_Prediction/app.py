@@ -16,7 +16,7 @@ models = {}
 countries = ["Launched Price (Pakistan)", "Launched Price (India)", "Launched Price (China)", "Launched Price (USA)", "Launched Price (Dubai)"]
 
 for country in countries:
-    with open(f"Data_Science/Mobile Price Prediction/{country}.pkl", "rb") as p:
+    with open(f"Data_Science/Mobile_Price_Prediction/{country}.pkl", "rb") as p:
         models[country] = pickle.load(p)
 
 st.title("Mobile Price Prediction")
