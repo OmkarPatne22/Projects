@@ -1,5 +1,5 @@
 numpy
 tensorflow
 keras
-PIL
+pillow
 Streamlit
