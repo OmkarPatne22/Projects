@@ -5,7 +5,7 @@ from tensorflow.keras.preprocessing import image
 from PIL import Image
 from tensorflow.keras.models import load_model
 
-model = load_model("Pneumonia pred Model.keras")
+model = load_model("Data_Science/Pneumonia_Disease_Prediction_using_CNN/Pneumonia pred Model.keras")
 
 class_name = ["Normal", "Pneumonia"]
 
